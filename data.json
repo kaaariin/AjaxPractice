@@ -1,0 +1,5 @@
+[
+    {"id":"movie1","crowded":"yes","remaining":"2"},
+    {"id":"movie2","crowded":"no","remaining":"9"},
+    {"id":"movie3","crowded":"no","remaining":"7"}
+]
